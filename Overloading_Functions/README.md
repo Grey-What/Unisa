@@ -10,7 +10,7 @@ need to be declared
 - Only to be used to improve readibility
 
 ### Example:
-```c
+```c++
 const double PI = 3.14159265358979323846;
 
 double area(double width, double length)
